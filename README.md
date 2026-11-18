@@ -41,21 +41,29 @@ My learning journey focuses on applying cybersecurity concepts through hands-on 
 
 ## 📂 Featured Projects
 
+### Cybersecurity Projects
+
 ### 1. Phishing Email Analysis
-A hands-on investigation examining a simulated phishing email, including email header analysis, authentication checks, IOC identification and security recommendations.
+A hands-on investigation examining a simulated phishing email, including email header analysis, SPF/DKIM/DMARC authentication checks, suspicious URL analysis, IOC identification and security recommendations.
 
 [View Project](https://github.com/Lesego0707/Phishing-Email-Analysis)
 
 ### 2. Network Traffic Analysis – Wireshark
-A practical network investigation involving packet analysis, suspicious network activity, endpoint identification and threat intelligence research.
+A practical network investigation involving packet analysis, endpoint identification, HTTP and TLS traffic examination, suspicious file transfer investigation and basic threat intelligence research.
 
 [View Project](https://github.com/Lesego0707/Network-Traffic-Analysis)
 
-### 3. Cybersecurity Analyst Portfolio
+### 3. Windows Security Log Analysis – KQL
+A practical investigation using basic Kusto Query Language (KQL) in Azure Data Explorer to analyse a synthetic Windows security event dataset. Examined failed and successful logons, account creation and special privilege activity, documented suspicious patterns and identified investigation limitations.
+
+[View Project](https://github.com/Lesego0707/Windows-Security-Log-Analysis)
+
+---
+
+### Cybersecurity Analyst Portfolio
 A collection of my cybersecurity learning journey, practical investigations, technical skills and professional development.
 
 [View Portfolio](https://github.com/Lesego0707/Cybersecurity-Analyst-Portfolio-)
-
 ## 🎓 Certifications & Learning
 
 - Microsoft Azure Fundamentals (AZ-900) – Certified
