@@ -67,7 +67,7 @@ A collection of my cybersecurity learning journey, practical investigations, tec
 ## 🎓 Certifications & Learning
 
 - Microsoft Azure Fundamentals (AZ-900) – Certified
-- Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Exam scheduled for 19 November 2026
+- Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Exam scheduled for 25 November 2026
 - Microsoft Sentinel – Currently Learning
 - Continuous learning through Microsoft Learn and practical cybersecurity labs.
 
