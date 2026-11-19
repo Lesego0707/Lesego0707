@@ -1,85 +1,93 @@
-# Hi, I'm Lesego 👋
+# Lesego | Aspiring SOC Analyst
 
-### Aspiring Cybersecurity Professional | Technology Enthusiast | Lifelong Learner
+### Security Monitoring • Threat Investigation • Network Analysis
 
-I'm an aspiring cybersecurity professional building practical skills in security monitoring, network analysis, threat detection and cloud security.
+I am an aspiring Security Operations Centre (SOC) Analyst developing practical skills in security monitoring, log analysis, network traffic investigation and threat identification.
 
-I hold the **Microsoft Azure Fundamentals (AZ-900)** certification and am currently preparing for **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**.
+My focus is on understanding how security events are investigated, recognising suspicious activity, analysing evidence and documenting findings through hands-on cybersecurity projects and practical labs.
 
-My learning journey focuses on applying cybersecurity concepts through hands-on investigations, practical labs and personal projects.
+I hold the **Microsoft Azure Fundamentals (AZ-900)** certification and am currently preparing for **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**. I am also expanding my knowledge of SIEM concepts and Microsoft Sentinel.
 
-## 👩‍💻 About Me
+## Professional Profile
 
-- 🔐 Passionate about cybersecurity, information security and technology.
-- ☁️ Microsoft Azure Fundamentals certified.
-- 🛡️ Developing knowledge of security operations and threat detection.
-- 🔎 Building practical experience through phishing and network traffic investigations.
-- 📊 Interested in security monitoring, incident investigation and cloud security.
-- 📚 Currently expanding my knowledge of Microsoft Sentinel and SIEM concepts.
-- 🎯 Career goal: To grow into a cybersecurity professional, contributing to secure and resilient technology environments.
+My transition into cybersecurity is supported by a background in administration and reception, where I developed communication, organisation, time management, attention to detail and documentation skills.
 
-## 🛠️ Technical Skills & Tools
+I am applying these transferable skills to my technical development, with a particular interest in security operations, incident investigation and protecting digital environments.
 
-**Cybersecurity**
-- Phishing Email Analysis
-- IOC Identification
-- Email Authentication (SPF, DKIM, DMARC)
-- Threat Detection Fundamentals
-- Security Investigation and Documentation
+## Technical Skills & Tools
+
+**Security Investigation**
+- Phishing email analysis
+- Email authentication: SPF, DKIM and DMARC
+- Indicators of Compromise (IOC) identification
+- Windows security event log analysis
+- Security investigation and documentation
 
 **Networking**
-- TCP/IP
+- TCP/IP fundamentals
 - DNS and ARP
 - HTTP/HTTPS
-- Network Traffic Analysis
+- Network traffic analysis
+- Packet inspection
 
 **Tools & Platforms**
 - Wireshark
 - VirusTotal
-- Microsoft Azure
-- Microsoft Sentinel (Currently Learning)
+- Kusto Query Language (KQL) – foundational
+- Azure Data Explorer
+- Microsoft Azure – fundamentals
+- Microsoft Sentinel – currently learning
 
-## 📂 Featured Projects
-
-### Cybersecurity Projects
+## Featured Cybersecurity Investigations
 
 ### 1. Phishing Email Analysis
-A hands-on investigation examining a simulated phishing email, including email header analysis, SPF/DKIM/DMARC authentication checks, suspicious URL analysis, IOC identification and security recommendations.
+A simulated phishing investigation examining email headers, sender authentication, suspicious URLs and Indicators of Compromise (IOCs). The project documents investigation findings, potential risks and security recommendations.
 
 [View Project](https://github.com/Lesego0707/Phishing-Email-Analysis)
 
-### 2. Network Traffic Analysis – Wireshark
-A practical network investigation involving packet analysis, endpoint identification, HTTP and TLS traffic examination, suspicious file transfer investigation and basic threat intelligence research.
-
-[View Project](https://github.com/Lesego0707/Network-Traffic-Analysis)
-
-### 3. Windows Security Log Analysis – KQL
-A practical investigation using basic Kusto Query Language (KQL) in Azure Data Explorer to analyse a synthetic Windows security event dataset. Examined failed and successful logons, account creation and special privilege activity, documented suspicious patterns and identified investigation limitations.
+### 2. Windows Security Log Analysis – KQL
+A practical investigation using a synthetic Windows security event dataset to examine authentication activity, account creation and privileged access events. Includes KQL queries, findings and investigation documentation.
 
 [View Project](https://github.com/Lesego0707/Windows-Security-Log-Analysis)
 
----
+### 3. Network Traffic Analysis – Wireshark
+A hands-on network investigation involving packet analysis, endpoint identification, suspicious traffic examination and threat intelligence research to understand potentially malicious network activity.
 
-### Cybersecurity Analyst Portfolio
-A collection of my cybersecurity learning journey, practical investigations, technical skills and professional development.
+[View Project](https://github.com/Lesego0707/Network-Traffic-Analysis)
 
-[View Portfolio](https://github.com/Lesego0707/Cybersecurity-Analyst-Portfolio-)
-## 🎓 Certifications & Learning
+### 4. Home Network Topology Lab
+A foundational networking project documenting a home network environment, its components and network communication concepts.
 
-- Microsoft Azure Fundamentals (AZ-900) – Certified
-- Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Exam scheduled for 25 November 2026
-- Microsoft Sentinel – Currently Learning
-- Continuous learning through Microsoft Learn and practical cybersecurity labs.
+[View Project](https://github.com/Lesego0707/Home-Network-Topology-Lab)
 
-## 🌱 Beyond Technology
+## Certifications & Professional Development
 
-My previous experience in administration and reception has helped me develop communication, organisation, teamwork, time management and attention to detail.
+**Completed**
+- Microsoft Azure Fundamentals (AZ-900)
 
-I believe these transferable skills, combined with my growing technical knowledge, will help me contribute positively to a professional technology environment.
+**Currently Pursuing**
+- Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Candidate | Exam scheduled: 25 November 2026
 
-## 📫 Connect With Me
+**Planned Certification**
+- CompTIA Security+ (SY0-701)
 
-- **GitHub:** [Lesego0707](https://github.com/Lesego0707)
+**Practical Learning Platforms**
+- TryHackMe – Hands-on cybersecurity training and practical labs
+- Microsoft Learn – Security, cloud and identity fundamentals
+- Microsoft Sentinel – Currently developing SIEM investigation skills
 
+**Ongoing Development**
+- Security monitoring and alert investigation
+- Windows security log analysis
+- Network traffic analysis
+- Phishing and threat investigation
 
-*Learning. Building. Investigating. Growing.*
+My goal is to develop into a capable SOC Analyst, contributing to security monitoring, alert investigation, threat detection and incident response.
+
+I am committed to strengthening my technical foundation through practical investigations, continuous learning and the ability to understand and communicate security findings.
+
+## Connect
+
+- GitHub: [Lesego0707](https://github.com/Lesego0707)
+
+*Learning through investigation. Growing through practice.*
